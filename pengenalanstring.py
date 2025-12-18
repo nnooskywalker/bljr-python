@@ -25,16 +25,16 @@ print("ini adalah hari jum'at")
 print('mari shalat jum\'at')
 print('g\'day, isn\'t it?')
 
-# backlash
+# backlash (\\)
 print("C:\\user\\Ucup")
 
-# tab
+# tab (\t)
 print("ucup\t\totong, semakin jauh")
 
-# backspace
+# backspace (\b)
 print("ucup \botong, jadi deketan")
 
-#newline
+#newline (\n)
 print("baris pertama.\nbaris kedua.") #LF -> Line feed -> unix, macos, linux
 print("baris pertama.\rbaris kedua.") #CR -> carriage return -> commodore, acorn, lisp
 print("baris pertama.\r\nbaris kedua.") #CRLF -> Line feed carriage return -> dipakai oleh windows
@@ -59,4 +59,5 @@ Nama : Ucup
 Kelas : 3/SD
 Website : www.ucup.com/newID
 """)
+
 
